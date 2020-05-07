@@ -8,6 +8,7 @@ Shor’s algorithm consists of two parts:
 
 
 Note: For this you will need an API token which you can get by registering here: https://quantum-computing.ibm.com/ 
+
 //run on IBM’s quantum computers with Python and Qiskit. 
 
 
